@@ -1,2 +1,2 @@
 # cpp_tests
-Test of c++ programming language
+My personal tests of c++ language
